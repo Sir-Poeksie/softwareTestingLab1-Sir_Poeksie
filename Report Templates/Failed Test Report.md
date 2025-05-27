@@ -26,7 +26,7 @@
 **Repro Rate**: 100% 
 **Severity**: High  
 **Evidence**:
-![Bug Screenshot](UI_Version.png)
+![UI_Version.png]
 
 
 **Investigation Notes:**  
